@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api para interação com medidor inteligente desenvolvida como parte da iniciação cientifica com auxilio financeiro do pppg-uefs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maike de Oliviera Nascimento",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "later": "^1.2.0",
+    "mongoose": "^8.9.5",
+    "mongose": "^0.0.2-security"
+  }
+}
